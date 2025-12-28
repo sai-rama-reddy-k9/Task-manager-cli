@@ -4,9 +4,10 @@ A simple and lightweight **Command Line Task Manager** built using Python.
 This tool lets you add, update, delete, list, and manage tasks with statuses like `todo`, `in-progress`, and `done`.  
 All tasks are stored locally in a `tasks.json` file.
 
-## 🔗 Project URL
-https://github.com/sai-rama-reddy-k9/Task-manager-cli
+👉 **Project Repository:** https://github.com/sai-rama-reddy-k9/Task-manager-cli
 
+## 🔗 Project page URL
+https://roadmap.sh/projects/task-tracker
 ---
 
 ## 🚀 Features
