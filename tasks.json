@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "in-progress",
+    "createAt": "2025-12-28T09:28:42.172904",
+    "updatedAt": "2025-12-28T09:32:09.960041"
+  },
+  {
+    "id": 2,
+    "description": "Finish homework",
+    "status": "done",
+    "createAt": "2025-12-28T09:28:46.867853",
+    "updatedAt": "2025-12-28T09:29:27.322189"
+  },
+  {
+    "id": 3,
+    "description": "Call mom and dad",
+    "status": "todo",
+    "createAt": "2025-12-28T09:28:51.115720",
+    "updatedAt": "2025-12-28T09:35:57.270348"
+  }
+]
