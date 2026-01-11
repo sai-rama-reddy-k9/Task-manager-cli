@@ -46,7 +46,7 @@ task-cli add "Buy groceries"
 
 ### Update a task
 ```
-python task-cli.py update 1 "Buy vegetables and fruits"
+task-cli update 1 "Buy vegetables and fruits"
 ```
 
 ### Delete a task
